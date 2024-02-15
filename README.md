@@ -2,7 +2,7 @@
 
 This is a simple cache implementation in Golang. It is a generic cache and can be used to store any type of data.
 
-```
+```go
 package gcache
 
 import (
