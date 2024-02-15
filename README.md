@@ -44,3 +44,5 @@ func getSomething(x int64) (resp X, err error) {
 
 ```
 
+As you can see, x and y have equal values despite having different parameters. This is because they share the same key.
+
